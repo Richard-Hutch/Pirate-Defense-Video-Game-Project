@@ -1,0 +1,128 @@
+# depslib dependency file v1.0
+1575883592 source:c:\users\richa\cs code\groupproject\sdl_plotter.cpp
+	"SDL_Plotter.h"
+
+1575883594 c:\users\richa\cs code\groupproject\sdl_plotter.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+	<string.h>
+	<iostream>
+	<string>
+	<string.h>
+	<map>
+
+1575890705 source:c:\users\richa\cs code\groupproject\main.cpp
+	"TheVault.h"
+
+1575883598 c:\users\richa\cs code\groupproject\point.h
+	<ostream>
+	<cmath>
+	"SDL_Plotter.h"
+	"Color.h"
+
+1575883594 c:\users\richa\cs code\groupproject\color.h
+
+1575883594 c:\users\richa\cs code\groupproject\circle.h
+	"Point.h"
+	"Color.h"
+	"SDL_Plotter.h"
+
+1575883594 source:c:\users\richa\cs code\groupproject\circle.cpp
+	"Circle.h"
+
+1575883594 source:c:\users\richa\cs code\groupproject\line.cpp
+	"line.h"
+
+1575883596 c:\users\richa\cs code\groupproject\line.h
+	"Point.h"
+	"Color.h"
+
+1575883598 source:c:\users\richa\cs code\groupproject\point.cpp
+	"Point.h"
+
+1575883598 source:c:\users\richa\cs code\groupproject\rectangle_t.cpp
+	"Rectangle_t.h"
+
+1575883598 c:\users\richa\cs code\groupproject\rectangle_t.h
+	"Point.h"
+	"Color.h"
+
+1575883594 c:\users\richa\cs code\groupproject\thevault.h
+	<ctime>
+	<cstdlib>
+	<iostream>
+	"Circle.h"
+	"Color.h"
+	"Point.h"
+	"Line.h"
+	"Rectangle_t.h"
+	"SDL_Plotter.h"
+	"Enemy.h"
+	"DoCollide.h"
+	"Player.h"
+	"Bullet.h"
+	"Numbers.h"
+	"Barrier.h"
+	"Special.h"
+	"EndingScreen.h"
+
+1575883594 c:\users\richa\cs code\groupproject\docollide.h
+	"Rectangle_t.h"
+
+1575883594 source:c:\users\richa\cs code\groupproject\docollide.cpp
+	"DoCollide.h"
+
+1575919262 source:c:\users\richa\cs code\groupproject\bullet.cpp
+	"Bullet.h"
+
+1575880064 c:\users\richa\cs code\groupproject\bullet.h
+	"TheVault.h"
+	"Player.h"
+
+1575880064 c:\users\richa\cs code\groupproject\player.h
+	"TheVault.h"
+	"Bullet.h"
+
+1575880062 source:c:\users\richa\cs code\groupproject\player.cpp
+	"Player.h"
+
+1575902606 c:\users\richa\cs code\groupproject\numbers.h
+	"SDL_Plotter.h"
+	"Numbers.h"
+
+1575902606 source:c:\users\richa\cs code\groupproject\numbers.cpp
+	"Numbers.h"
+
+1575901886 c:\users\richa\cs code\groupproject\enemy.h
+	"TheVault.h"
+
+1575901882 source:c:\users\richa\cs code\groupproject\enemy.cpp
+	"Enemy.h"
+
+1575747476 source:c:\users\richa\cs code\groupproject\fakeenemy.cpp
+	"TheVault.h"
+
+1575905996 source:c:\users\richa\cs code\groupproject\barrier.cpp
+	"Barrier.h"
+
+1575905996 c:\users\richa\cs code\groupproject\barrier.h
+	"TheVault.h"
+
+1575747201 c:\users\richa\cs code\groupproject\fakeenemy.h
+	"TheVault.h"
+
+1575910286 c:\users\richa\cs code\groupproject\special.h
+	"Rectangle_t.h"
+	"TheVault.h"
+
+1575905950 source:c:\users\richa\cs code\groupproject\special.cpp
+	"Special.h"
+
+1575905972 c:\users\richa\cs code\groupproject\endingscreen.h
+	"TheVault.h"
+
+1575905970 source:c:\users\richa\cs code\groupproject\endingscreen.cpp
+	"EndingScreen.h"
+
+1575883594 source:c:\users\richa\cs code\groupproject\color.cpp
+
